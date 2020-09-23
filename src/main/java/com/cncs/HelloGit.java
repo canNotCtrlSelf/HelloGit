@@ -17,5 +17,6 @@ public class HelloGit {
     public void dev3() {
         String dev3="dev3";
         int a=10;
+        int b=20;
     }
 }
