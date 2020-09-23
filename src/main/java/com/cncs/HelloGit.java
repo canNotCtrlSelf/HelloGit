@@ -14,7 +14,7 @@ public class HelloGit {
         System.out.println("hello!!!");
     }
 
-    public void dev2() {
+    public void dev3() {
 
     }
 }
