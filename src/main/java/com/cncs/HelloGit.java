@@ -6,12 +6,15 @@ public class HelloGit {
             System.out.println("hello git !");
             hello();
         }
-        int a=10;
-        int b=10;
+        int a = 10;
+        int b = 10;
     }
 
-    public static void hello(){
+    public static void hello() {
         System.out.println("hello!!!");
     }
 
+    public void dev2() {
+
+    }
 }
