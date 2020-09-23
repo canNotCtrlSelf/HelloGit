@@ -7,6 +7,7 @@ public class HelloGit {
             hello();
         }
         int a=10;
+        int b=10;
     }
 
     public static void hello(){
