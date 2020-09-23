@@ -15,6 +15,7 @@ public class HelloGit {
     }
 
     public void dev3() {
+        String dev2;
         String dev3;
     }
 }
