@@ -6,6 +6,7 @@ public class HelloGit {
             System.out.println("hello git !");
             hello();
         }
+        int b=10;
     }
 
     public static void hello(){
